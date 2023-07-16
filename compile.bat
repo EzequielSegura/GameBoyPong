@@ -1,0 +1,2 @@
+echo change directory to the folder where the bin folder is located (where the compiler is located) and execute where the main.c file is located
+C:\GBDK\gbdk\bin\lcc -Wa-l -Wl-m -Wl-j -o pong.gb main.c
